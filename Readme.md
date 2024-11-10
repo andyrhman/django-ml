@@ -1,4 +1,4 @@
-# Django Auth
+# Django ML
 
 <p align="center">
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" width="300" height="200" />
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is my 4th project of django web framework, no that i know mostly on how this django structure api works and in this project i want to sharpen my skill again to study more on how this api works with admin api project.
+This is my 4th project of django web framework, this project is for Machine Learning model integration to REST API using library like Tensorflow & Keras.
 
 ## First Time Set Up & Configuration
 
