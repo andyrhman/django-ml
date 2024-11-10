@@ -6,18 +6,23 @@
 
 ## Introduction
 
-This is my 2nd project of django web framework, no that i know mostly on how this django structure api works and in this project i want to sharpen my skill again to study more on how this api works with admin api project.
+This is my 4th project of django web framework, no that i know mostly on how this django structure api works and in this project i want to sharpen my skill again to study more on how this api works with admin api project.
 
 ## First Time Set Up & Configuration
 
 Install the Django Web Framework:
 
 ```bash
+sudo apt update && sudo apt install python3.10 python3.10-venv python3.10-dev # tensorflow only exist in 3.10 for now
+sudo apt update && sudo apt install libgl1-mesa-glx # For OpenCV
 pip install django
 pip install djangorestframework   
-pip install django-filter   
-pip install psycopg2 # For database
-pip install python-decouple # Installing python-decouple for .env:
+pip install django-filter
+pip install python-decouple
+pip install pandas
+pip install numpy
+pip install opencv-python
+pip install tensorflow
 ```
 
 Create the directory:
